@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/home_selector"
+        barColorWhenSelected="#FF6600"/>
+    <tab
+        id="@+id/tab_cart"
+        icon="@drawable/cart_selector"
+        barColorWhenSelected="#CCFF00"/>
+</tabs>
